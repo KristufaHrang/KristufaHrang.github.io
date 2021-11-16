@@ -9,6 +9,7 @@
   --app-accent-text: #FFFFFF;
   --sidebar-color: rgba(26,105,26,0.4);
   --sidebar-blur: 12px;
+  --sidebar-opacity: 0.5;
   --main-content-color: rgba(0,0,0,0.2);
   --main-content-blur: 4px;
   --messages-color: rgba(0,0,0,0.4);
