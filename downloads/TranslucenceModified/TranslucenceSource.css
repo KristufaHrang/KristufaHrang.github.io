@@ -7,7 +7,7 @@
   --app-accent-image: none;
   --app-accent-rgb: 215,61,61;
   --app-accent-text: #FFFFFF;
-  --sidebar-color: rgba(0,0,0,0.4);
+  --sidebar-color: rgba(120,147,236,0.4);
   --sidebar-blur: 12px;
   --main-content-color: rgba(0,0,0,0.2);
   --main-content-blur: 4px;
@@ -16,7 +16,7 @@
   --messages-padding: 8px;
   --mention-color: var(--app-accent);
   --mention-rgb: var(--app-accent-rgb);
-  --mention-alt: #5274e9;
+  --mention-alt: #7893ec;
   --notification-color: #fff;
   --textarea-color: 0,0,0;
   --textarea-text-color: #fff;
