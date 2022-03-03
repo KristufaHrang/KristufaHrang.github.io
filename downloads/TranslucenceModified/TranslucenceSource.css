@@ -9,7 +9,7 @@
   --app-accent-opacity: 1;
   --app-accent-text: #FFFFF;
   --sidebar-color: rgba(100,127,216,0.2);
-  --main-content-color: rgba(0,0,0,0.2);
+  --main-content-color: rgba(255,255,255,0.2);
   --messages-color: rgba(0,0,0,0.4);
   --messages-radius: var(--app-radius);
   --messages-padding: 8px;
