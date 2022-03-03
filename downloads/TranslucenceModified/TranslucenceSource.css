@@ -4577,7 +4577,7 @@ input::-webkit-input-placeholder {
 }
 .contentColumnDefault-3eyv5o .ace_editor:before {
   position: absolute;
-  content: "To change the colors such as the accent, copy the code below into\athe custom CSS. More variables can be found on the theme's GitHub\arepo page. bit.ly/TranslucenceDiscord\a\a:root {\a 	--app-bg: url(https://i.imgur.com/U8bSjj5.jpg) !important;\a 	--app-blur: 6px !important;\a 	--app-margin: 24px !important;\a 	--app-radius: 8px !important;\a 	--app-accent: #d73d3d !important;\a 	--app-accent-rgb: 215,61,61 !important;\a 	--app-accent-text: #000 !important;\a}";
+  content: "To change the colors such as the accent, copy the code below into\athe custom CSS. More variables can be found on the theme's GitHub\arepo page. bit.ly/TranslucenceDiscord\a\a:root {\a 	--app-bg: url(https://i.imgur.com/U8bSjj5.jpg) !important;\a 	--app-blur: 6px !important;\a 	--app-margin: 24px !important;\a 	--app-radius: 8px !important;\a 	--app-accent: #d73d3d !important;\a 	--app-accent-rgb: 198,178,118 !important;\a 	--app-accent-text: #000 !important;\a}";
   display: block;
   width: calc(100% - 32px);
   top: -295px;
