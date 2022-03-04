@@ -8,7 +8,7 @@
   --app-accent-rgb: 213,196,123;
   --app-accent-opacity: 1;
   --app-accent-text: #FFFFF;
-  --sidebar-color: rgba(100,127,216,0.2);
+  --sidebar-color: rgba(213,196,123,0.2);
   --main-content-color: rgba(255,255,255,0.2);
   --messages-color: rgba(0,0,0,0.4);
   --messages-radius: var(--app-radius);
@@ -29,7 +29,7 @@
   --card-color-select: rgba(0,0,0,0.7);
   --card-radius: var(--app-radius);
   --button-color: rgba(var(--app-accent-rgb),var(--app-accent-opacity));
-  --button-action-color: #000;
+  --button-action-color: #FFFFF;
   --button-text-color: var(--app-accent-text);
   --button-radius: var(--app-radius);
   --button-alt-color: var(--card-color);
@@ -4577,7 +4577,7 @@ input::-webkit-input-placeholder {
 }
 .contentColumnDefault-3eyv5o .ace_editor:before {
   position: absolute;
-  content: "To change the colors such as the accent, copy the code below into\athe custom CSS. More variables can be found on the theme's GitHub\arepo page. bit.ly/TranslucenceDiscord\a\a:root {\a 	--app-bg: url(https://i.imgur.com/U8bSjj5.jpg) !important;\a 	--app-blur: 6px !important;\a 	--app-margin: 24px !important;\a 	--app-radius: 8px !important;\a 	--app-accent: #d73d3d !important;\a 	--app-accent-rgb: 198,178,118 !important;\a 	--app-accent-text: #000 !important;\a}";
+  content: "To change the colors such as the accent, copy the code below into\athe custom CSS. More variables can be found on the theme's GitHub\arepo page. bit.ly/TranslucenceDiscord\a\a:root {\a 	--app-bg: url(https://i.imgur.com/U8bSjj5.jpg) !important;\a 	--app-blur: 6px !important;\a 	--app-margin: 24px !important;\a 	--app-radius: 8px !important;\a 	--app-accent: #d73d3d !important;\a 	--app-accent-rgb: 198,178,118 !important;\a 	--app-accent-text: #FFFFF !important;\a}";
   display: block;
   width: calc(100% - 32px);
   top: -295px;
