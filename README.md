@@ -1,11 +1,12 @@
 # KristufaHrang.github.io
 
 Hi there :)
-I'm KristufaHrang and I know nothing about code or computers (jk)
-(holy that joke can go throw itself down a hole)
+Welcome to my ✨site✨ (ew wtf)
 
-Anyways, this is my website where I host files and other stuff 
-heehee
+Anyways, this is my website where I host files and other stuff
+Have a good day, or night, or morning, or dusk..
+I have no idea where you live but that's a good thing I guess.
+uh- just pretend I said good night morning or day or something idk
 
 Thanks,
 KristufaHrang
